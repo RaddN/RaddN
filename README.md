@@ -1,6 +1,6 @@
 <h1 align="center">Raihan Hossain</h1>
 <h3 align="center">A passionate Flutter, mern stack & WordPress developer</h3>
-
+<p>Flutter(android,IOS,etc),Full(mern)Stack Web Developer,SEO expert,UI / UX Designer,SEO expert.best UI / UX Designer,WordPress</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raddn&label=Profile%20views&color=0e75b6&style=flat" alt="raddn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raddn" alt="raddn" /></a> </p>
